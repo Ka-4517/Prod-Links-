@@ -9,3 +9,4 @@
 7. Snapzipp : 
 8. Sense To Solve : https://www.sensetosolve.com/ - Prod    || 
 9. VNCG : https://vannattercg.com/ -Prod  || http://vncgwp.dev.vinove.com/ - Stage/dev
+10. Cadena solutions : https://cadena.dev.vinove.com/ || https://www.cadena.ae/ - Prod 
